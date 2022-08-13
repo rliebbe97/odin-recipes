@@ -1,0 +1,1 @@
+This is the first of many small test projects to complete odin project skills. I plan to speed through these quickly to strengthen my foundations while improving on more complex skills with my side projects
